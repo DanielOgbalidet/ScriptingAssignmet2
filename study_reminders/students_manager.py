@@ -2,7 +2,7 @@ import json
 
 class StudentsManager:
     """Class to manage student data with JSON storage."""
-    def __init__(self, file_path="../students.json"):
+    def __init__(self, file_path="students.json"):
         self.file_path = file_path
         self.students = self.load_students()
 

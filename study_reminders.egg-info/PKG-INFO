@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: study_reminders
+Version: 1.0
+Summary: A Python package that automates personalized study reminders for students.
+Author: Daniel Ogbalidet
+Author-email: daniel.ogbalidet@example.com
+Requires-Dist: schedule
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
