@@ -1,2 +1,0 @@
-[console_scripts]
-study-reminders = study_reminders.main:main
